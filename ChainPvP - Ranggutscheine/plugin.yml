@@ -1,0 +1,7 @@
+name: ChainRangupgrade
+author: xLucaN
+version: 1.0
+main: de.chainpvp.xlucan.main.Main
+
+commands:
+   ranggutschein:
